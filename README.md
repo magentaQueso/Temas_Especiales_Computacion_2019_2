@@ -11,11 +11,11 @@ Espero sirva de algo :)
 
 
 
-1. TEC_Ejemplo1. 
-    Declaración de variables
-    Comparadores. 
-    Combinación con HTML.
+1. TEC_Ejemplo1.  
+   || Declaración de variables
+   || Comparadores. 
+   || Combinación con HTML.
     
- 2. TEC_Ejemplo2
-    Arreglos
-    Uso de foreach
+ 2. TEC_Ejemplo2 
+   || Arreglos
+   || Uso de foreach
