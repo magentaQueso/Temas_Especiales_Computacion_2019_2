@@ -8,3 +8,14 @@ En ellos se ve la parte correspondiente a Backend (PHP, conexión a Bases de Dat
 Agradecere mucho que puedan realizarme tantos comentarios como sean posibles, ¡nos ayudara a aprender!
 
 Espero sirva de algo :)
+
+
+
+1. TEC_Ejemplo1. 
+    -Declaración de variables
+    -Comparadores. 
+    -Combinación con HTML.
+    
+ 2. TEC_Ejemplo2
+    -Arreglos
+    -Uso de foreach
